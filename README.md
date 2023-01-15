@@ -38,3 +38,5 @@ _ _ or * *
 > Just use the > symbol
 
 hello `rgb(100,100,100)`
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
