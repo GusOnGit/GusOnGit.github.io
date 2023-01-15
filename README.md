@@ -12,13 +12,15 @@
 
 ### Bold
 ** or __
-### ~~ hello ~~
+#### **Example**
 
 ### Italic
 * * or _ _
+#### * * Example * *
 
 ### Bold and Italic
 ***
+#### ***Example***
 
 ### StrikeThrough
 ~~ ~~
@@ -26,8 +28,10 @@
 
 ### SubScript
 <sub> </sub>
-### test<sub> this is a sub script </sub>
+#### Example<sub> this is a sub script </sub>
 
 ### SuperScript
 <sup> </sup>
-### test<sup> this is a super script </sup>
+#### Example<sup> this is a super script </sup>
+
+###
