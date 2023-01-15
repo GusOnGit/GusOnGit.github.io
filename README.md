@@ -22,6 +22,7 @@
 
 ### StrikeThrough
 ~~ ~~
+#### ~~Example~~
 
 ### SubScript
 <sub> </sub>
