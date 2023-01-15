@@ -57,7 +57,7 @@ there are also nested lists just indent
 2. knuckle
 3. sandwich
 
-# make spaces between lines for paragraphs *hello* __im__ <sub>bald</sub>
+# paragraphs are _easy_ to <sup>make</sup> just be ***careful*** or you in <sub>trouble</sub>
 
 im making a comment lets test
 <!-- hello testing -->
