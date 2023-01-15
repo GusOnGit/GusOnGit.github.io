@@ -69,4 +69,4 @@ to ignore a command let's say i accident put a bold synbol **in** front of "in" 
 | First header | Second Header  |
 | ------------ | -------------- |              
 |       hate   |      this      |
-|              |                |
+|    shit      |       bruh     |
