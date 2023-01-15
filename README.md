@@ -34,5 +34,5 @@ _ _ or * *
  <sup> </sup>
 #### Example<sup>this is a super script</sup>
 
-Wanna make a quote
-> Just use the > symbol
+### Wanna make a quote
+#### > Just use the > symbol
