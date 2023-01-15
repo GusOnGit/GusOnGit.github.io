@@ -37,4 +37,4 @@ _ _ or * *
 ### Wanna make a quote
 > Just use the > symbol
 
-`rgb(100,100,100)` hello
+hello `rgb(100,100,100)`
