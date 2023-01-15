@@ -1,11 +1,30 @@
-Im gonna try and learn how to use github
+# Im gonna try and learn how to use github
 
+Use # to change heading
+
+1 hashtag
 # largest heading
-## second largest heading
-### third heading
-#### fourth
-##### fifth
+
+to
+
+6 hashtags
 ###### smallest heading
 
-# test<sub> this is a sub script </sub>
-# test<sup> this is a super script </sup>
+Different Text Styles
+
+Bold
+** or __
+
+Italic
+* * or _ _
+
+Bold and Italic
+***
+
+# SubScript
+<sub> </sub>
+### test<sub> this is a sub script </sub>
+
+# SuperScript
+<sup> </sup>
+### test<sup> this is a super script </sup>
