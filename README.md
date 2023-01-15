@@ -1,4 +1,4 @@
-## Im gonna try and learn how to use github
+# Im gonna try and learn how to use github
 
 # **Use # to change heading (1-6)**
 # largest heading
@@ -7,10 +7,10 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-
+Normal text also exists
 # Different Text Styles
 
-### Bold
+### Bold 
 ** or __
 #### **Example**
 
@@ -34,4 +34,4 @@
 <sup> </sup>
 #### Example<sup>this is a super script</sup>
 
-###
+
