@@ -63,3 +63,5 @@ im making a comment lets test
 <!-- hello testing -->
 didn't appear mission success
 to do it you need to do \<!-- ex -->
+
+to ignore a command let's say i accident put a * *in front of in front i just have to put a / in front of the * to have a * there
