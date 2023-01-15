@@ -5,4 +5,5 @@
 ##### fifth
 ###### smallest heading
 
-<sub> this is a super script </sub>
+<sub> this is a sub script </sub>
+<sup> this is a super script </sup>
