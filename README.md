@@ -8,15 +8,20 @@
 ##### Heading 5
 ###### Heading 6
 
-Different Text Styles
+# Different Text Styles
+
 ### Bold
 ** or __
+### ~~ hello ~~
 
 ### Italic
 * * or _ _
 
 ### Bold and Italic
 ***
+
+### StrikeThrough
+~~ ~~
 
 ### SubScript
 <sub> </sub>
