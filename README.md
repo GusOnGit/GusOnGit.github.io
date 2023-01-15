@@ -1,4 +1,4 @@
-# Im gonna try and learn how to use github
+## Im gonna try and learn how to use github
 
 # **Use # to change heading (1-6)**
 # largest heading
