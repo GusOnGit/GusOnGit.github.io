@@ -16,7 +16,7 @@
 
 ### Italic
 * * or _ _
-#### * * Example * *
+#### * *Example* *
 
 ### Bold and Italic
 ***
@@ -28,10 +28,10 @@
 
 ### SubScript
 <sub> </sub>
-#### Example<sub> this is a sub script </sub>
+#### Example<sub>this is a sub script</sub>
 
 ### SuperScript
 <sup> </sup>
-#### Example<sup> this is a super script </sup>
+#### Example<sup>this is a super script</sup>
 
 ###
