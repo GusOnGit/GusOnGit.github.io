@@ -39,4 +39,4 @@ _ _ or * *
 
 hello `rgb(100,100,100)`
 
-![This is an image](https://www.facebook.com/photo/?fbid=314228943392883&set=a.314228930059551)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
