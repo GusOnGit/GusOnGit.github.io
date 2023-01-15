@@ -38,4 +38,4 @@ _ _ or * *
 ### Wanna make a quote
 > Just use the > symbol
 
-#ffffff this is nice
+`#0969DA` this is nice
