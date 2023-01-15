@@ -15,7 +15,7 @@ Normal text also exists
 #### **Example**
 
 ### Italic
- * * or _ _
+_ _ or * *
 #### * *Example* *
 
 ### Bold and Italic
