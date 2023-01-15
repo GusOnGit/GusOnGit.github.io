@@ -33,3 +33,6 @@ _ _ or * *
 ### SuperScript
  <sup> </sup>
 #### Example<sup>this is a super script</sup>
+
+Wanna make a quote
+> Just use the > symbol
