@@ -11,27 +11,25 @@ Normal text also exists
 # Different Text Styles
 
 ### Bold 
-** or __
+ ** or __
 #### **Example**
 
 ### Italic
-* * or _ _
+ * * or _ _
 #### * *Example* *
 
 ### Bold and Italic
-***
+ ***
 #### ***Example***
 
 ### StrikeThrough
-~~ ~~
+ ~~ ~~
 #### ~~Example~~
 
 ### SubScript
-<sub> </sub>
+ <sub> </sub>
 #### Example<sub>this is a sub script</sub>
 
 ### SuperScript
-<sup> </sup>
+ <sup> </sup>
 #### Example<sup>this is a super script</sup>
-
-
