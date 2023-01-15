@@ -75,3 +75,9 @@ to ignore a command let's say i accident put a bold synbol **in** front of "in" 
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+| Name     | Character |
+| -        | -         |
+| Backtick | `         |
+| Pipe     | \|        |
+
