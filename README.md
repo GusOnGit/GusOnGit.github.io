@@ -64,4 +64,4 @@ im making a comment lets test
 didn't appear mission success
 to do it you need to do \<!-- ex -->
 
-to ignore a command let's say i accident put a * **in** front of "in" I just have to put a / in front of the * for the program to not make it bold and show the symbol
+to ignore a command let's say i accident put a bold synbol **in** front of "in" I just have to put a / in front of the * for the program to not make it bold and show the symbol
