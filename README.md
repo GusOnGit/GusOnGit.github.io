@@ -1,24 +1,23 @@
 # Im gonna try and learn how to use github
 
-Use # to change heading
+# **Use # to change heading (1-6)
 
-1 hashtag
 # largest heading
-
-to
-
-6 hashtags
-###### smallest heading
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 Different Text Styles
 
-Bold
+# Bold
 ** or __
 
-Italic
+# Italic
 * * or _ _
 
-Bold and Italic
+# Bold and Italic
 ***
 
 # SubScript
