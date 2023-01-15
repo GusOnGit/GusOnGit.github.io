@@ -44,9 +44,14 @@ hello `rgb(100,100,100)`
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
+these are lists
+you can make them with - * + or 1,2,3
 - fart
 * knuckle
 + sandwich
 - lmao
 * finger 
 + doodle
+1. fart
+2. knuckle
+3. sandwich
