@@ -46,6 +46,7 @@ hello `rgb(100,100,100)`
 
 these are lists
 you can make them with - * + or 1,2,3
+there are also nested lists just indent
 - fart
 * knuckle
 + sandwich
